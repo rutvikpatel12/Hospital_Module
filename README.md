@@ -1,3 +1,1 @@
-# Hospital_Module
-# Hospital_Module
-# Hospital_Module
+Create First Module is Hospital Management using odoo
